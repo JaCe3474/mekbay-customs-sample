@@ -1,0 +1,190 @@
+generator:MegaMek Suite 0.51.00 on 2026-11-22
+chassis:Phoenix Hawk LAM Mk II
+model:PHX-G1
+mul id:4824
+
+Config:LAM
+techbase:Mixed (IS Chassis)
+era:3150
+rules level:4
+role:Skirmisher
+
+quirk:difficult_eject
+quirk:difficult_maintain
+quirk:non_standard
+quirk:imp_target_short
+
+mass:55
+engine:275 Fusion Engine(IS)
+structure:IS Standard
+myomer:Triple-Strength
+lam:Standard
+cockpit:Small Cockpit
+gyro:Standard Gyro
+
+heat sinks:10 Clan Double
+walk mp:5
+jump mp:7
+
+armor:Standard(Inner Sphere)
+LA armor:11
+RA armor:11
+LT armor:15
+RT armor:15
+CT armor:21
+HD armor:9
+LL armor:15
+RL armor:15
+RTL armor:5
+RTR armor:5
+RTC armor:6
+
+Weapons:4
+ER Medium Laser, Right Torso
+ER Medium Laser, Center Torso
+ER Medium Laser, Left Torso
+ER Small Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Landing Gear
+Avionics
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+CLERMediumLaser
+CLActiveProbe
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Landing Gear
+Avionics
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Landing Gear
+CLERMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Avionics
+Sensors
+CLERSmallLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Improved Jump Jet
+Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Improved Jump Jet
+Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:The PHX-G1 is a one-of-a-kind rebuild of a Star League-era Phoenix Hawk LAM Mk I, rebuilt with Clan weapons and electronics by an Internal Security Force black program in the 3140s. The Inner Sphere lost the ability to build Land-Air 'Mechs when the last LAM parts factory on Irece was destroyed, and by the ilClan era a working three-mode LAM is a museum piece. The ISF wanted deniable assets that could go anywhere with no DropShip to track: one pilot, one machine, no flag.
+The program, known in its few surviving files only as Kage no Tori ("Shadow Bird"), pulled a mothballed PHX-HK1 hulk out of a Benjamin District depot. The original 50-ton frame was rebuilt to 55 tons and stripped to its conversion skeleton. Its weapons, heat sinks and sensors were replaced with Clan salvage taken from Ghost Bear and Nova Cat battlefields. A GM 275 fusion plant replaced the worn-out original. The program's engineers wired Clan targeting cores into a custom Kage Hunter tracking system and a Kage Commline suite, because no Inner Sphere electronics could keep up with the Clan lasers. Rawlings jump jets, refitted to Kuroi Improved standard, give the machine its reach. Durallex armor plate was cut to fit a frame its designers never imagined. The ISF records list the result as "experimental." The program's technicians called it unmaintainable. The program ended in a purge around 3146, and the machine was not among the assets recovered.
+
+capabilities:The PHX-G1 trades firepower for reach. As a standard three-mode LAM it can walk as a 'Mech, skim terrain in AirMech mode at up to 23 hexes a turn, or convert to a fighter with Safe Thrust 7. Seven improved jump jets give it 7 Jumping MP in 'Mech mode and set its thrust in Fighter mode. It reaches targets that ground forces cannot, and leaves before anyone can respond.
+Its armament is all energy weapons, so it never runs out of ammunition, and none of its weapons can explode. Three torso-mounted Clan ER medium lasers and a head-mounted Clan ER small laser deliver 26 points of damage at short range. Because the guns sit in the torsos, losing an arm costs the 'Mech none of its firepower, and the arms stay free for the blade and the hands. Its ten Clan double heat sinks sit inside the engine. A Clan active probe gives it recon range beyond any Inner Sphere equivalent. A retractable blade in the right arm turns the machine into a close-quarters killer; the pilot keeps a working hand when the blade is retracted. Triple-strength myomer in the left arm switches on at heat 9 or higher. It adds 2 Walking MP and doubles physical attack damage, so the blade hits for 12.
+The weaknesses are equally clear. The LAM rules allow only a standard fusion engine, standard internal structure and armor that uses no critical slots. That leaves 128 points of armor on a 55-ton frame. Firing everything during a full jump builds about 4 heat per turn, so the pilot has to choose when to fire everything. The small cockpit adds +1 to Piloting Skill Rolls. Every replacement part is Clan salvage or Star League scrap, which makes each repair a hunt.
+
+deployment:There was only ever one PHX-G1. After the Kage no Tori purge, it appeared on the books of a yakuza gumi in the Buckminster Prefecture. It flew contraband between hidden airstrips and fought in unsanctioned arena bouts under a series of throwaway names. Since about 3149 it has operated freelance from a privately owned DropShip, taking bounty contracts across the Combine, the old Republic worlds and the Periphery border. Combine authorities have no official record of the machine. The ISF still wants it back.
+
+history:Notable MechWarriors
+"Ghost": The PHX-G1's only known pilot never appears in public out of his armor, and his sealed helmet stays on even in the cockpit. Contract brokers on a dozen worlds know the call sign; almost no one knows the face. He is credited with taking down targets in places that rival hunters consider unreachable. Several of those were 'Mechs heavier than his own, finished at blade range. Rumors tie him to a dead ISF program, a yakuza debt that was never paid, and at least one Solaris arena fight that never officially happened. All the rumors agree on one thing: if the Ghost has your name, you will not hear him coming.
+
+manufacturer:Kage no Tori Program (Internal Security Force)
+
+primaryfactory:Unknown (ISF black site, Buckminster Prefecture)
+
+fluffdate:2026-02-26 19:50:04
+
+systemmanufacturer:CHASSIS:Allied Aerospace
+systemmode:CHASSIS:Dort 85 LAM (Rebuilt Kage Type 2)
+systemmanufacturer:ENGINE:GM
+systemmode:ENGINE:275
+systemmanufacturer:ARMOR:Durallex Standard
+systemmode:ARMOR:100
+systemmanufacturer:JUMP_JET:Rawlings Kuroi
+systemmode:JUMP_JET:Improved Model C
+systemmanufacturer:COMMUNICATIONS:Kage Commline 
+systemmode:COMMUNICATIONS:Salvaged Clan components
+systemmanufacturer:TARGETING:Kage Hunter TTS 
+systemmode:TARGETING:Salvaged Clan components
+
